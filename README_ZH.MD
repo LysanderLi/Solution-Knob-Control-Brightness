@@ -13,7 +13,6 @@
   - [安装](#安装)
   - [运行应用程序](#运行应用程序)
 - [目录结构](#目录结构)
-- [使用](#使用)
 - [贡献](#贡献)
 - [许可证](#许可证)
 - [支持](#支持)
@@ -84,9 +83,6 @@ solution-Knob-Control-Brightness/
 └── README.md				# README 英文文件
 ```
 
-## 使用
-
-点击[这里](https://python.quectel.com/doc/Application_guide/zh/solutions/Wear/index.html)查看可穿戴解决方案的详细实现。
 
 ## 贡献
 

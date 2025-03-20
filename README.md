@@ -13,7 +13,6 @@ Welcome to the QuecPython Knob Light Solution warehouse! This repository provide
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Directory Structure](#directory-structure)
-- [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
 - [Support](#support)
@@ -85,9 +84,6 @@ solution-Knob-Control-Brightness/
 └── README.md				
 ```
 
-## Usage
-
-[Click](https://python.quectel.com/doc/Application_guide/en/solutions/Wear/index.html) for details of the wearable solution's implementation.
 
 ## Contribution
 
