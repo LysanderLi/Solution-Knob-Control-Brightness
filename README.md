@@ -1,4 +1,4 @@
-# Wearable Solution for QuecPython
+# Knob-Control-Brightness Solution for QuecPython
 
 [中文](README_ZH.MD) | English
 
@@ -58,10 +58,8 @@ Before you begin, ensure you have the following prerequisites:
 ### Running the Application
 
 1. **Connect the Hardware**:
-   - Insert the SIM card into the SIM card slot.
-   - Connect the antenna.
    - Use a USB data cable to connect the development board to the computer's USB port.
-
+   
 2. **Download Code to the Device**:
    - Launch the QPYcom debugging tool.
    - Connect the data cable to the computer.
