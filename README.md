@@ -58,7 +58,7 @@ Before you begin, ensure you have the following prerequisites:
 ### Running the Application
 
 1. **Connect the Hardware**:
-   - Use a USB data cable to connect the development board to the computer's USB port.
+   - Connect the development board to the USB port of your computer using a USB cable
    
 2. **Download Code to the Device**:
    - Launch the QPYcom debugging tool.
