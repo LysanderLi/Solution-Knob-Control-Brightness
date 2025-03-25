@@ -1,6 +1,6 @@
 # QuecPython 旋钮控灯方案
 
-中文 | [English](README.MD)
+中文 | [English](README.md)
 
 欢迎来到 QuecPython 旋钮控灯方案仓库！本仓库提供了一个全面的解决方案，用于使用 QuecPython 实现旋钮控灯。
 
